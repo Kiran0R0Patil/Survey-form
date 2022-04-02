@@ -1,6 +1,7 @@
 # survey-form
 
 A survey form for a restaurant to take feedback from their customers.
+view the page: https://kiran0r0patil.github.io/survey-form/
 
 A freeCodeCamp.org project to complete the Responsive Web Design course.
 
